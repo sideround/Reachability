@@ -19,7 +19,6 @@ let package = Package(
         .target(
             name: "Reachability",
             dependencies: [],
-            path: "",
-            sources: ["Reachability.h", "Reachability.m"]),
+            path: "Sources"),
     ]
 )
